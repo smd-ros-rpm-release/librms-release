@@ -1,0 +1,17 @@
+ros-hydro-librms (0.0.2-0raring) raring; urgency=high
+
+  * fix for header installs
+  * Contributors: Russell Toris
+
+ -- Russell Toris <rctoris@wpi.edu>  Fri, 12 Dec 2014 05:00:00 -0000
+
+ros-hydro-librms (0.0.1-0raring) raring; urgency=high
+
+  * first working version of librms
+  * studies and conditions
+  * Initial commit
+  * Contributors: Russell Toris
+
+ -- Russell Toris <rctoris@wpi.edu>  Tue, 02 Dec 2014 05:00:00 -0000
+
+
