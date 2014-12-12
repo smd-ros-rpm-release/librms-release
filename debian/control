@@ -1,0 +1,12 @@
+Source: ros-indigo-librms
+Section: misc
+Priority: extra
+Maintainer: Russell Toris <rctoris@wpi.edu>
+Build-Depends: debhelper (>= 9.0.0), libmysqlclient-dev, ros-indigo-catkin
+Homepage: http://ros.org/wiki/librms
+Standards-Version: 3.9.2
+
+Package: ros-indigo-librms
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libmysqlclient-dev
+Description: RMS Data Log Client Library
