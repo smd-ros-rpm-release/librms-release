@@ -8,8 +8,8 @@ License:        BSD
 URL:            http://ros.org/wiki/librms
 Source0:        %{name}-%{version}.tar.gz
 
-Requires:       mariadb
-BuildRequires:  mariadb
+Requires:       mariadb-devel
+BuildRequires:  mariadb-devel
 BuildRequires:  ros-indigo-catkin
 
 %description
